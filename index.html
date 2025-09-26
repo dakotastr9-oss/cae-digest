@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Дайджест CAE/CAD индустрии - 2025</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="header-content">
+                <div class="header-left">
+                    <h1 class="title">Дайджест CAE/CAD индустрии</h1>
+                    <p class="subtitle">Обзор ключевых событий и тенденций • 2025</p>
+                </div>
+                <div class="header-right">
+                    <div class="calendar-widget">
+                        <div class="calendar-date" id="current-date">24</div>
+                        <div class="calendar-month" id="current-month">Сентября</div>
+                        <div class="calendar-year" id="current-year">2025</div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <nav class="navigation">
+            <button class="nav-btn active" data-section="foreign">🌍 Зарубежные компании</button>
+            <button class="nav-btn" data-section="russian">🇷🇺 Российские компании</button>
+            <button class="nav-btn" data-section="industry">📈 Рынок и тренды</button>
+            <button class="nav-btn" data-section="events">🎯 События и выставки</button>
+            <div class="search-controls">
+                <input type="text" id="search-input" placeholder="Поиск новостей..." class="search-input">
+                <select id="sort-select" class="sort-select">
+                    <option value="date-desc">Сначала новые</option>
+                    <option value="date-asc">Сначала старые</option>
+                    <option value="title">По названию</option>
+                </select>
+            </div>
+        </nav>
+
+        <main class="main-content">
+            <!-- Боковая панель со статистикой -->
+            <aside class="sidebar">
+                <div class="stats-widget-sidebar">
+                    <div class="stats-title">📊 Статистика дайджеста</div>
+                    <div class="stats-item">
+                        <span class="stats-label">Всего новостей</span>
+                        <span class="stats-value" id="total-news">0</span>
+                    </div>
+                    <div class="stats-item">
+                        <span class="stats-label">За месяц</span>
+                        <span class="stats-value" id="month-news">0</span>
+                    </div>
+                    <div class="stats-item">
+                        <span class="stats-label">Компаний</span>
+                        <span class="stats-value" id="companies-count">0</span>
+                    </div>
+                    <div class="stats-item">
+                        <span class="stats-label">Последнее обновление</span>
+                        <span class="stats-value" id="last-update">сегодня</span>
+                    </div>
+                </div>
+            </aside>
+
+            <div class="content-area">
+                <!-- Зарубежные компании -->
+                <section id="foreign" class="content-section active">
+                    <div class="news-grid" id="foreign-news"></div>
+                </section>
+
+                <!-- Российские компании -->
+                <section id="russian" class="content-section">
+                    <div class="news-grid" id="russian-news"></div>
+                </section>
+
+                <!-- Рынок и тренды -->
+                <section id="industry" class="content-section">
+                    <div class="news-grid" id="industry-news"></div>
+                </section>
+
+                <!-- События и выставки -->
+                <section id="events" class="content-section">
+                    <div class="news-grid" id="events-news"></div>
+                </section>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <p>&copy; 2025 CAE/CAD Дайджест. Все права защищены.</p>
+                <p>Подготовлено для анализа тенденций в области инженерного программного обеспечения</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

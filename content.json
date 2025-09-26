@@ -1,0 +1,1327 @@
+{
+  "foreign": [
+    {
+      "block": "Altair Engineering, 11 августа 2025",
+      "month": "august",
+      "title": "Altair Engineering",
+      "date": "11 августа 2025",
+      "image": "https://altair.com/images/default-source/heroes/altair_newsroom_hero_2022_1920x225.png?sfvrsn=d909812a_0",
+      "imageAlt": "Altair Engineering - ML новость",
+      "content": [
+        {
+          "subheading": "Altair объявляет о виртуальном мероприятии ATCx AI для инженеров 2025",
+          "text": "Компания Altair объявила о проведении глобального виртуального мероприятия ATCx AI для инженеров 2025, которое состоится 10 июня 2025 года."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Altair объявляет о виртуальном мероприятии ATCx AI для инженеров 2025",
+          "url": "https://www.altair.com/newsroom/news-releases/altair-announces-atcx-ai-for-engineers-2025-global-virtual-event"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Надо внедрять ИИ"
+    },
+    {
+      "block": "Altair Engineering, 11 августа 2025",
+      "month": "august",
+      "title": "Altair Engineering",
+      "date": "11 августа 2025",
+      "image": "https://altair.com/images/default-source/news-images/altair_newsroom_fa_100-ai-powered-use-cases_hero.jpg?sfvrsn=7d95070_5",
+      "imageAlt": "Altair Engineering - ML новость",
+      "content": [
+        {
+          "subheading": "Altair's AI-Powered Engineering in 100 Use Cases",
+          "text": "В новой электронной книге рассказывается о том, как организации применяют ИИ на всех этапах жизненного цикла продукта и как компании могут внедрять инженерные инициативы на основе ИИ"
+        }
+      ],
+      "sources": [
+        {
+          "text": "Altair's AI-Powered Engineering in 100 Use Cases",
+          "url": "https://www.altair.com/newsroom/news-releases/altairs-ai-powered-engineering-in-100-use-cases"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Надо внедрять ИИ"
+    },
+    {
+      "block": "Altair Engineering (партнёрство с HD Hyundai), 11 августа 2025",
+      "month": "august",
+      "title": "Altair Engineering",
+      "date": "11 августа 2025",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2024/03/gtc-ov-corp-blog-announcement-siemens-1280x680-1-960x510.png",
+      "imageAlt": "Altair Engineering - партнерство с HD Hyundai Heavy Industries",
+      "content": [
+        {
+          "subheading": "Altair и HD Hyundai Heavy Industries подписывают соглашение о продвижении технологий разработки экологически чистых морских двигателей с использованием ИИ и моделирования",
+          "text": "Компания Altair объявила о заключении меморандума с HD Hyundai Heavy Industries для совместной разработки экологически чистых морских двигателей. Партнерство направлено на использование передовых технологий искусственного интеллекта и моделирования для создания более эффективных и экологичных решений в судостроении."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Altair и HD Hyundai Heavy Industries подписывают соглашение о продвижении технологий разработки экологически чистых морских двигателей",
+          "url": "https://www.altair.com/newsroom/news-releases/altair-and-hd-hyundai-heavy-industries-sign-mou"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Рост технологическоого партнерства"
+    },
+    {
+      "block": "Siemens, 14 августа 2025",
+      "month": "august",
+      "title": "Siemens",
+      "date": "14 августа 2025",
+      "image": "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2025/08/pass-by-noise.png",
+      "imageAlt": "Simcenter 3D Acoustics 2506 - новая версия",
+      "content": [
+        {
+          "subheading": "Расширение возможностей прогнозирования NVH",
+          "text": "Одной из отличительных особенностей этого выпуска является расширенная возможность прогнозирования NVH для распространённых топологий тяговых электродвигателей. Улучшение в версии 2506 заключается в возможности учитывать эффект акустической изоляции для электроприводов в типичной модели акустического передаточного вектора (ATV) пониженного порядка (ROM), используемой для анализа при различных оборотах в минуту. Это позволяет проводить точное и быстрое моделирование при различных оборотах в минуту или при различных порядках, включая дополнительные эффекты акустического демпфирования, что помогает более эффективно прогнозировать и устранять проблемы, связанные с шумом, вибрацией и жёсткостью (NVH)."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Новая версия Simcener 3D Acoustics 2506",
+          "url": "https://blogs.sw.siemens.com/simcenter/simcenter-3d-acoustics-2506-discover-whats-new/?pk_vid=a26158a613676621d205eb6316d1a37b175698882459760f"
+        }
+      ],
+      "comment": "Сименс вклыдвается в акустику (NVH, e-drive, акустика вращающихся машин) → значит, эти темы будут в спросе, и нам стоит готовить кейсы/обучение по аналогичным областям. Siemens красиво продаёт «workflow под задачу». Мы можем упаковать CADFlo, Fidesys, GeomechaniCS в такие же готовые сценарии и предлагать как «российскую альтернативу, оптимизированную под местные реалии»."
+    },
+    {
+      "block": "Siemens, 25 августа 2025",
+      "month": "august",
+      "title": "Siemens",
+      "date": "25 августа 2025",
+      "image": "https://blogs.sw.siemens.com/wp-content/uploads/sites/6/2025/08/Layout-Opti.gif",
+      "imageAlt": "Новый подход к конструкции трансмиссии электромобилей",
+      "content": [
+        {
+          "subheading": "Новый подход к конструкции трансмиссии электромобилей: решение проблем NVH и сложности проектирования",
+          "text": "Новая методология расчета. Автоматизированная система для оптимизации конструкции зубчатой передачи"
+        }
+      ],
+      "sources": [
+        {
+          "text": "Новый подход к конструкции трансмиссии электромобилей",
+          "url": "https://blogs.sw.siemens.com/simcenter/revolutionizing-ev-drivetrain-design-addressing-nvh-and-design-complexity/?pk_vid=a26158a613676621d205eb6316d1a37b175698929259760f"
+        }
+      ],
+      "comment": "Конкуренция уходит в область комплексных автоматизированных workflow для EV и NVH, и нам важно показать, что у нас тоже есть (или мы быстро сделаем) такие сквозные сценарии, но доступнее и адаптированные под российские реалии."
+    },
+    {
+      "block": "ZWSOFT, 11 августа 2025",
+      "month": "august",
+      "title": "ZWSOFT",
+      "date": "11 августа 2025",
+      "image": "https://statics.zwsoft.com/static/style2020/images/zwsim/ma20.png",
+      "imageAlt": "ZWSOFT - ML новость",
+      "content": [
+        {
+          "subheading": "More Official Channels",
+          "text": "More Official Channels"
+        }
+      ],
+      "sources": [
+        {
+          "text": "More Official Channels",
+          "url": "https://www.facebook.com/zwsoft"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Пока ничего нового нет"
+    },
+    {
+      "block": "Synopsys приобретает Ansys, 17 июля 2025",
+      "month": "july",
+      "title": "Synopsys",
+      "date": "17 июля 2025",
+      "image": "https://3dcad.news/ru/wp-content/uploads/2024/02/Synopsys-to-Acquire-Ansys-for-35-Billion.jpg",
+      "imageAlt": "Synopsys приобретение Ansys",
+      "content": [
+        {
+          "text": "Глава Synopsys Сассин Гази заявил, что сочетание проектирования кремния и системных симуляций Ansys позволит построить единую цифровую цепочку проектирования «от кремниевой крошки до сложной системы»; первые совместные решения планируется вывести на рынок в 1-м полугодии 2026 г."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Schnitger Corp: Сделка Synopsys-Ansys",
+          "url": "https://schnitgercorp.com/2025/07/17/its-done-ansys-is-part-of-synopsys/"
+        }
+      ],
+      "comment": "Концентрироваться на AI‑подходах, которые применимы «здесь и сейчас» — в наших инструментах можно демонстрировать гибридные сценарии, адаптированные под российские нужды, ГОСТы и отраслевые особенности."
+    },
+    {
+      "block": "Ansys релиз 2025 R2, 29 июля 2025",
+      "month": "july",
+      "title": "Ansys",
+      "date": "29 июля 2025",
+      "image": "https://images.ansys.com/is/image/ansys/ansys-2025r2-video-thumbnail-2",
+      "imageAlt": "Ansys 2025 R2 с Engineering Copilot",
+      "content": [
+        {
+          "text": "В релиз вошёл Engineering Copilot на базе ИИ, инструменты автоматизации симуляций, интеграция с Azure AI, усовершенствованные решатели и управление данными. Появление AI-функций показывает ставку Ansys на ускорение расчётов и снижение барьеров для инженеров."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Ansys 2025 R2 Release Highlights",
+          "url": "https://www.ansys.com/products/release-highlights"
+        }
+      ],
+      "comment": "ИИ-помощники становятся стандартом в CAE. Важно интегрировать подобные возможности в отечественные решения."
+    },
+    {
+      "block": "PTC, 04 августа 2025",
+      "month": "august",
+      "title": "PTC",
+      "date": "04 августа 2025",
+      "image": "https://ptc-p-001.sitecorecontenthub.cloud/api/public/content/c8c5cc4332b249cb816088b7467be1ef?v=4f59430a",
+      "imageAlt": "PTC сотрудничество с NVIDIA",
+      "content": [
+        {
+          "subheading": "30 июля компания объявила о расширении сотрудничества с NVIDIA",
+          "text": "В Creo и PLM-системе Windchill будет встроена платформа Omniverse для совместной работы и визуализации. PTC вошла в альянс OpenUSD, чтобы продвигать открытый стандарт для цифровых двойников, и планирует использовать Omniverse для создания симуляций в реальном времени и виртуальных производственных линий."
+        }
+      ],
+      "sources": [
+        {
+          "text": "PTC ускоряет проектирование и моделирование инфраструктуры ИИ и сложных продуктов с помощью NVIDIA Omniverse",
+          "url": "https://www.ptc.com/en/news/2025/ptc-nvidia-omniverse#:~:text=BOSTON%20–%20July%2030%2C%202025,and%20interoperable%203D%20data%20standards"
+        }
+      ],
+      "comment": "Укреплять бренд за счёт открытости: поддержка отечественных форматов, обмен данными с популярными CAD/CAE, экспорт/импорт в универсальные стандарты (STEP, JT и др.) — и этим выигрывать доверие локальных клиентов. создание \"легких цифровых двойников\": быстрые макеты поведения, визуализации сложных механизмов (например, тепловые поля, деформации, акустика) — доступные заказчикам."
+    },
+    {
+      "block": "COMSOL, 04 августа 2025",
+      "month": "august",
+      "title": "COMSOL",
+      "date": "04 августа 2025",
+      "image": "https://cdn.comsol.com/product-new/comsol-multiphysics/full/particle-tracing-mixer-thermal-comsol.png",
+      "imageAlt": "COMSOL Multiphysics для General Fusion",
+      "content": [
+        {
+          "subheading": "Канадский стартап General Fusion использует COMSOL Multiphysics для разработки демонстрационной установки LM26",
+          "text": "8 июля опубликован кейс: стартап General Fusion использует COMSOL Multiphysics для разработки LM26. Многофизиковое моделирование оптимизирует тепловые и механические параметры реактора, снижая риски коммерциализации."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Первая в мире демонстрационная термоядерная установка, разработанная и оптимизированная с помощью COMSOL Multiphysics",
+          "url": "https://www.comsol.com/press-release/world-first-fusion-demonstration-machine-designed-and-optimized-using-comsol-multiphysics-14582#:~:text=simulate%20the%20response%20of%20the,to%20create%20and%20assemble%20LM26"
+        }
+      ],
+      "comment": "Подчёркивать модели с экспериментальной поддержкой (ГОСТ, тесты). Развивать сложные модели — NVH + Тепло + Прочность + Контакт"
+    },
+    {
+      "block": "Siemens, 24 сентября 2025",
+      "month": "september",
+      "title": "Siemens",
+      "date": "24 сентября 2025",
+      "image": "https://www.pandct.com/uploads/news_images/Siemens%2024925.jpg",
+      "imageAlt": "Siemens Digital Industries - соглашение об обмене данными для ИИ",
+      "content": [
+        {
+          "subheading": "Соглашение о революционном обмене данными для ИИ в производстве",
+          "text": "Siemens AG и производители оборудования достигли соглашения о создании альянса для обмена данными, который позволит обмениваться информацией для приложений ИИ в производстве. Это открывает путь к революционным изменениям в промышленных ИИ-приложениях."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Siemens and machine builders agree on groundbreaking data alliance",
+          "url": "https://www.pandct.com/news/siemens-and-machine-builders-agree-on-groundbreaking-data-alliance"
+        }
+      ],
+      "comment": "Интеграция ИИ в промышленные процессы становится стандартом. Важно развивать собственные AI-решения для CAE."
+    },
+    {
+      "block": "Siemens & Merck, 24 сентября 2025",
+      "month": "september",
+      "title": "Siemens",
+      "date": "24 сентября 2025",
+      "image": "https://assets.new.siemens.com/siemens/assets/api/uuid:9862001d-e443-4151-8034-25638dc63579/width:1024/quality:HIGH/9862001d-e443-4151-8034-25638dc63579-high.webp",
+      "imageAlt": "Siemens и Merck - партнёрство в разработке лекарств с ИИ",
+      "content": [
+        {
+          "subheading": "Углубление партнёрства для ускорения ИИ в разработке лекарств",
+          "text": "Siemens и Merck подписали меморандум о взаимопонимании для создания сквозного решения на базе ИИ для ускорения открытия и разработки лекарств. Партнёрство фокусируется на использовании ИИ для снижения затрат и устранения пробелов в производстве лекарств."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Merck and Siemens deepen strategic partnership to accelerate AI and data-driven drug development",
+          "url": "https://press.siemens.com/global/en/pressrelease/merck-and-siemens-deepen-strategic-partnership-accelerate-ai-and-data-driven-drug"
+        }
+      ],
+      "comment": "Расширение применения CAE-технологий в фармацевтической отрасли через ИИ-подходы."
+    },
+    {
+      "block": "ANSYS, TSMC & Microsoft, 24 сентября 2025",
+      "month": "september",
+      "title": "ANSYS",
+      "date": "24 сентября 2025",
+      "image": "https://images.ansys.com/is/image/ansys/cpu-vs-gpu-lumerical-pr",
+      "imageAlt": "ANSYS, TSMC и Microsoft - ускорение симуляций фотоники",
+      "content": [
+        {
+          "subheading": "Сотрудничество для ускорения симуляций фотоники",
+          "text": "ANSYS, TSMC и Microsoft сотрудничают для ускорения симуляции и анализа кремниевых фотонных компонентов более чем в 10 раз. Это позволит оптимизировать разработку чипов с использованием облачных технологий Azure."
+        }
+      ],
+      "sources": [
+        {
+          "text": "ANSYS, TSMC and Microsoft accelerate photonic simulation",
+          "url": "https://www.ansys.com/news-center/press-releases/9-24-24-ansys-tsmc-msft-accelerate-photonic-sim"
+        }
+      ],
+      "comment": "Облачные вычисления становятся ключевым трендом для ускорения CAE-расчетов."
+    },
+    {
+      "block": "ANSYS, 24 сентября 2025",
+      "month": "september",
+      "title": "ANSYS",
+      "date": "24 сентября 2025",
+      "image": "https://www.ansys.com/content/dam/company/brand/logos/ansys-logos/ansys-logo.svg",
+      "imageAlt": "ANSYS Structural Mechanics 2025 R2",
+      "content": [
+        {
+          "subheading": "Что нового в Ansys Structural Mechanics 2025 R2",
+          "text": "ANSYS представила обновление 2025 R2 для структурной механики, включая ИИ-помощника Engineering CoPilot, более быстрые солверы и улучшенные рабочие процессы для ускорения симуляций."
+        }
+      ],
+      "sources": [
+        {
+          "text": "What's New in Ansys Structural Mechanics 2025 R2",
+          "url": "https://www.ansys.com/webinars/ansys-2025-r2-structures"
+        }
+      ],
+      "comment": "ИИ-помощники в CAE становятся стандартом. Важно интегрировать подобные возможности в отечественные решения."
+    },
+    {
+      "block": "MathWorks - MATLAB Copilot, сентябрь 2025",
+      "month": "september",
+      "title": "MathWorks",
+      "date": "сентябрь 2025",
+      "image": "https://www.mathworks.com/etc.clientlibs/mathworks/clientlibs/customer-ui/templates/common/resources/images/mathworks-logo.svg",
+      "imageAlt": "MATLAB Copilot",
+      "content": [
+        {
+          "text": "MathWorks представила MATLAB Copilot - ИИ-помощник для разработки и улучшения MATLAB-кода. Функции включают автодополнение кода, преобразование описаний на естественном языке в MATLAB-код, объяснения кода и ошибок, автоматическую генерацию тестов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Introducing MATLAB Copilot",
+          "url": "https://www.mathworks.com/company/events/webinars/upcoming/introducing-matlab-copilot-4905250.html"
+        }
+      ],
+      "comment": "Интеграция ИИ в математические и инженерные инструменты становится мейнстримом"
+    }
+  ],
+  "russian": [
+    {
+      "block": "НТЦ АПМ - вебинар по APM WinMachine",
+      "month": "august",
+      "title": "НТЦ АПМ",
+      "date": "6 августа 2025",
+      "image": "https://apm.ru/img/462/APM-webinare-2025-comuttator-text.jpg",
+      "imageAlt": "НТЦ АПМ",
+      "content": [
+        {
+          "subheading": "Онлайн-вебинар по расчетам на ударные и гармонические нагрузки блока коммутатора в среде APM WinMachine",
+          "text": "APM демонстрирует возможности APM WinMachine для прочностной оценки сложных устройств под динамическими нагрузками, используя гибридные модели. Это особенно полезно для анализа электронного оборудования, чувствительного к ударным и вибрационным воздействиям."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Онлайн-вебинар по расчетам на ударные и гармонические нагрузки блока коммутатора в среде APM WinMachine",
+          "url": "https://apm.ru/raschet-bloka-kommutatora"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Продвигают продукт через демонстрацию конкретных отраслевых задач, а не абстрактных возможностей. Это усиливает доверие к их софту у клиентов."
+    },
+    {
+      "block": "MBSE и МЦД",
+      "month": "august",
+      "title": "МЦД",
+      "date": "25 августа 2025",
+      "image": "https://digitaltwin.ru/wp-content/uploads/2025/08/mbse_top_bg-1024x573.webp",
+      "imageAlt": "МЦД - ML новость",
+      "content": [
+        {
+          "subheading": "Эксперты АО «Моделирование и цифровые двойники» расскажут про возможности технологий MBSE при проектировании сложных систем",
+          "text": "04 сентября 2025 года специалисты АО «Моделирование и цифровые двойники» (АО «МЦД») проведут вебинар «MBSE – направление разработок DT Seven», посвященный автоматизации процесса расчета и оптимизации типовых конструкторских решений при проектировании и сокращения рутинного труда специалистов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "MBSE – направление разработок DT Seven",
+          "url": "https://digitaltwin.ru/latest-news/dtseven-webinar-sep2025/"
+        }
+      ],
+      "comment": "Делать полноценную MBSE-платформу как у PTC или Siemens — дорого и долго. Но упаковать наши CAE-решения в связные сценарии и позиционировать как «системная альтернатива, адаптированная под российские реалии» — абсолютно стоит. Конкуренты активно продают не инструменты, а готовые системные сценарии (MBSE workflows). Нам важно не отставать: упаковать CADFlo, Fidesys и GeomechaniCS в подобные цепочки, показать их как часть системной платформы CS Group и запустить маркетинговый цикл (вебинары, статьи, кейсы)."
+    },
+    {
+      "block": "QForm Форум 2025 - ПЛМ Урал",
+      "month": "august",
+      "title": "PLM Урал",
+      "date": "11 августа 2025",
+      "image": "https://www.plm-ural.ru/sites/default/files/styles/2_illustration_350px/public/2025-08/qform2025_banner_1200x752.jpg?itok=yCk3Fky0",
+      "imageAlt": "ПЛМ Урал",
+      "content": [
+        {
+          "subheading": "ГК «ПЛМ Урал» приглашает на QForm Форум 2025",
+          "text": "Группа компаний «ПЛМ Урал», официальный партнёр компании «КванторФорм», приглашает представителей заготовительных и металлургических предприятий, а также специалистов в области обработки металлов давлением принять участие в QForm Форуме"
+        }
+      ],
+      "sources": [
+        {
+          "text": "ГК «ПЛМ Урал» приглашает на QForm Форум 2025",
+          "url": "https://www.plm-ural.ru/news/gk-plm-ural-priglashaet-na-qform-forum-2025"
+        }
+      ],
+      "comment": "Задуматься о необходимости собственных отраслевых мероприятий — вебинаров и форумов, где можно показать практические применения CADFlo, Fidesys и GeomechaniCS, привлекая внимание как технологичных так и клиентски ориентированных аудиторий."
+    },
+    {
+      "block": "ЛОГОС (Росатом) - Корпоративный чемпионат",
+      "month": "july",
+      "title": "ЛОГОС (Росатом)",
+      "date": "28 июля 2025",
+      "image": "https://logos-support.ru/upload/iblock/50d/7b3x9xgdzez2gnn23eclll1fn5tgp8sj.jpg",
+      "imageAlt": "ЛОГОС (Росатом)",
+      "content": [
+        {
+          "subheading": "X Корпоративный чемпионат «Молодые профессионалы Роскосмоса» в Москве",
+          "text": "X Корпоративный чемпионат «Молодые профессионалы Роскосмоса. Дата: 28 июля - 3 августа 2025 года"
+        }
+      ],
+      "sources": [
+        {
+          "text": "X Корпоративный чемпионат «Молодые профессионалы Роскосмоса» в Москве",
+          "url": "https://logos-support.ru/blog/post_1_8076/"
+        }
+      ],
+      "ml_generated": true,
+      "comment": "Росатом строят бренд через привлечение талантов и образ будущего. Стоит подумать о подобных инициативах — участие в инженерных чемпионатах, коллаборации с вузами или практические тренинги для студентов — чтобы подрастить кадры, повысить узнаваемость и привлечь внимание как инженеров, так и заказчиков."
+    },
+    {
+      "block": "ЛОГОС (Росатом) - Санкт-Петербургский Политех",
+      "month": "august",
+      "title": "ЛОГОС (Росатом)",
+      "date": "11 августа 2025",
+      "image": "https://logos-support.ru/upload/iblock/fdb/eszipwmycy8uvr52as4m8oxckg33g3v8.jpg",
+      "imageAlt": "ЛОГОС (Росатом)",
+      "content": [
+        {
+          "subheading": "Санкт-Петербургский Политех интегрировал пакет программ «ЛОГОС» Росатома в цифровую платформу «CML-Bench»",
+          "text": "Санкт-Петербургский политехнический университет Петра Великого продолжает укреплять свои позиции в области цифровых технологий, интегрировав пакет программ инженерного анализа «ЛОГОС» в свою уникальную цифровую платформу CML-Bench®. Эта интеграция открывает новые горизонты для пользователей обоих продуктов, обеспечивая более высокое качество и скорость расчетов благодаря бесшовной передаче и управлению цифровыми моделями и данными."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Санкт-Петербургский Политех интегрировал пакет программ «ЛОГОС» Росатома в цифровую платформу «CML-Bench»",
+          "url": "https://logos-support.ru/blog/post_1_8042/"
+        }
+      ],
+      "comment": "ЛОГОС закрепляется в образовательной экосистеме, что создаёт «воспитание лояльности» к их продукту ещё на этапе обучения. Борьба идёт уже не только на уровне «ПО против ПО», а за место в экосистемах цифрового инжиниринга (CML-Bench, TechnologiCS и др.). Нам стоит продумать стратегию: или войти в CML-Bench, или активно развивать свой «аналогичный контур» с упором на интеграцию в образование и промышленность."
+    },
+    {
+      "block": "АСКОН - новые соглашения и мероприятия",
+      "month": "july",
+      "title": "АСКОН",
+      "date": "26 июля 2025",
+      "image": "https://sakhgu.ru/wp-content/uploads/post/record_214162/2025_07/5195416102119796556.jpg",
+      "imageAlt": "АСКОН новые соглашения и мероприятия",
+      "content": [
+        {
+          "subheading": "Соглашение с Передовой инженерной школой СахГУ",
+          "text": "Компания заключила соглашение о сотрудничестве с Передовой инженерной школой Сахалинского государственного университета «Инженерия островов» для совместных разработок."
+        }
+      ],
+      "sources": [
+        {
+          "text": "АСКОН: Соглашение с инженерной школой СахГУ",
+          "url": "https://sakhgu.ru/post/askon-stal-partnerom-peredovoj-inzhenernoj-shkoly-saxgu-inzheneriya-ostrovov/"
+        }
+      ],
+      "ml_generated": false,
+      "comment": "Встраивание в образовательные экосистемы"
+    },
+    {
+      "block": "Топ Системы и конференция Созвездие САПР",
+      "month": "august",
+      "title": "Топ Системы",
+      "date": "11 августа 2025",
+      "image": "https://sapr.ru/img/post/2025/07/1045/tflex.jpg",
+      "imageAlt": "Топ Системы и конференция Созвездие САПР",
+      "content": [
+        {
+          "subheading": "Конференция «Созвездие САПР»",
+          "text": "Компания проводит конференцию «Созвездие САПР» с участием ведущих корпораций России, демонстрируя возможности своих решений в CAE."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Конференция «Созвездие САПР» от Топ Системы",
+          "url": "https://sapr.ru/anons/20250724-t-flex"
+        }
+      ],
+      "comment": "Важно отвечать активными мероприятиями, упаковкой продуктов в сценарии и образовательными инициативами, чтобы не уступать в восприятии и узнаваемости."
+    },
+    {
+      "block": "Тесис / FlowVision - сертификация РЕД ОС и Альт",
+      "month": "august",
+      "title": "ТЕСИС / FlowVision",
+      "date": "12 августа 2025",
+      "image": "https://flowvision.ru/images/2025/picture9.jpg",
+      "imageAlt": "ТЕСИС FlowVision релиз и партнёрство",
+      "content": [
+        {
+          "subheading": "FlowVision получил сертификаты совместимости с российскими операционными системами РЕД ОС и Альт на базе Linux",
+          "text": "В июне 2025 года проведена серия испытаний новой версии FlowVision на совместимость с актуальными версиями отечественных операционными системами на базе Linux: РЕД ОС и ОС «Альт». По результатам тестирования выпущены сертификаты, подтверждающие полную совместимость FlowVision 3.15 с операционными системами РЕД ОС 7.3, РЕД ОС 8 и ОС семейства «Альт»."
+        }
+      ],
+      "sources": [
+        {
+          "text": "РЕД ОС и Альт на базе Linux",
+          "url": "https://flowvision.ru/ru/news-ru/fv-red-os-i-alt-na-baze-linux"
+        }
+      ],
+      "comment": "Разработать или сертифицировать поддержку РЕД ОС и Альт"
+    },
+    {
+      "block": "Тесис / FlowVision - форум Технопром-2025",
+      "month": "august",
+      "title": "ТЕСИС / FlowVision",
+      "date": "03 сентября 2025",
+      "image": "https://flowvision.ru/images/2025/image3.png",
+      "imageAlt": "Итоги участия ТЕСИС в форуме Технопром-2025 (г. Новосибирск)",
+      "content": [
+        {
+          "subheading": "Итоги участия ТЕСИС в форуме Технопром-2025 (г. Новосибирск)",
+          "text": "27-29 августа в Новосибирске прошел форум Технопром-2025. Компания ТЕСИС приняла участие в работе форума в составе объединенной делегации Ассоциации разработчиков программных продуктов «Отечественный софт»."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Итоги участия ТЕСИС в форуме Технопром-2025 (г. Новосибирск)",
+          "url": "https://flowvision.ru/ru/news-ru/itogi-uchastiya-tesis-v-forume-tekhnoprom-2025-g-novosibirsk"
+        }
+      ],
+      "comment": "Участвовать в форумах, Палатах, АРПП-Софт и в мероприятиях гос уровня"
+    },
+    {
+      "block": "PLM Урал на ИННОПРОМ-2025, 04 августа 2025",
+      "month": "august",
+      "title": "PLM Урал",
+      "date": "04 августа 2025",
+      "image": "https://www.plm-ural.ru/sites/default/files/inline-images/2025-07-07_11-57-29_kus_09414.jpg",
+      "imageAlt": "PLM Урал на ИННОПРОМ-2025",
+      "content": [
+        {
+          "text": "PLM Урал продемонстрировала на ИННОПРОМ-2025 координатно-измерительные машины AEH, привлекшие 50 тыс. посетителей. Владимир Жураховский подчеркнул важность инвестиций в отечественные решения."
+        }
+      ],
+      "sources": [
+        {
+          "text": "«ПЛМ Урал» на «ИННОПРОМ-2025»: промышленная автоматизация и цифровые технологии",
+          "url": "https://www.plm-ural.ru/news/plm-ural-na-innoprom-2025-promyshlennaya-avtomatizaciya-i-cifrovye-tekhnologii#:~:text=технологии"
+        }
+      ],
+      "comment": "Участие в крупных промышленных выставках - важная часть продвижения отечественных CAE-решений"
+    },
+    {
+      "block": "PLM Урал - новая версия SIMMAX, 04 августа 2025",
+      "month": "august", 
+      "title": "PLM Урал",
+      "date": "04 августа 2025",
+      "image": "https://www.plm-ural.ru/sites/default/files/2024-09/simmax-logo.png",
+      "imageAlt": "SIMMAX новая версия",
+      "content": [
+        {
+          "text": "PLM Урал представила SIMMAX с модулем компенсации усадки, термодинамической моделью и инструментами для сварки. Завершена разработка прототипа решения для задач механической усадки при аддитивном производстве."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Новые инструменты для точного расчета: анонс обновлений линейки SIMMAX",
+          "url": "https://www.plm-ural.ru/news/novye-instrumenty-dlya-tochnogo-rascheta-anons-obnovleniy-lineyki-simmax#:~:text=Завершена%20разработка%20прототипа%20решения%20за%20задачи,механической%20усадки%20при%20аддитивном%20производстве"
+        }
+      ],
+      "comment": "Развитие российского рынка CAE-решений"
+    },
+    {
+      "block": "МЦД на ITМаш-2025, 04 августа 2025",
+      "month": "august",
+      "title": "МЦД",
+      "date": "04 августа 2025",
+      "image": "https://digitaltwin.ru/wp-content/uploads/2023/05/logotype_sdt_rus_blue_nobackground-1.png",
+      "imageAlt": "МЦД на ITМаш-2025",
+      "content": [
+        {
+          "text": "На конференции ITМаш‑2025 компания презентовала концепцию «МЦД объединяет» — интегрированную инженерную цепочку на базе DT Enterprise, объединяющую SPDM, CAE и PLM для генеративного дизайна. По заявлению экспертов, подход основан на моделировании систем (MBSE) и генеративном ИИ; он позволяет сократить время обоснования проектных решений на 30 % и повысить продуктивность инженеров на 15 %."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Компания «Моделирование и цифровые двойники» рассказала о возможностях инженерного контура нового поколения и генеративного проектирования",
+          "url": "https://digitaltwin.ru/sdt-news/sdt-itmash-2025/#:~:text=Компания%20«Моделирование%20и%20цифровые%20двойники»,нового%20поколения%20и%20генеративного%20проектирования"
+        }
+      ],
+      "comment": "Системный подход к интеграции CAE и PLM становится ключевым трендом. Важно развивать подобные решения в отечественных продуктах."
+    },
+    {
+      "block": "МЦД - вебинары DT Seven и GAMMA, 08 июля 2025",
+      "month": "july",
+      "title": "МЦД",
+      "date": "08 июля 2025",
+      "image": "https://digitaltwin.ru/wp-content/uploads/2025/07/dt7-webinar-banner.webp",
+      "imageAlt": "МЦД вебинары",
+      "content": [
+        {
+          "text": "МЦД также активно продвигает вебинары: в июле они рассказывали о возможностях платформы DT Seven для создания и оптимизации моделей без глубоких математических знаний и о новых функциональностях GAMMA — расширенных библиотеках материалов, более быстром генераторе сеток и улучшенной визуализации результатов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Эксперты АО «Моделирование и цифровые двойники» продемонстрируют возможности выстраивания параллельной работы конструкторов и расчетчиков при разработке продукции",
+          "url": "https://digitaltwin.ru/latest-news/sdt-dt7-webinar/#:~:text=08%20июля%202025%20года%20эксперты,процессов%20с%20результатами%20расчетных%20обоснований"
+        },
+        {
+          "text": "Вебинар «Новые возможности САПР «Гамма». Ускорение расчетов для моделирования высокочастотных радиоэлектронных систем»",
+          "url": "https://digitaltwin.ru/latest-news/gamma-webinar-jul2025/#:~:text=Вебинар%20«Новые%20возможности%20САПР%20«Гамма»,для%20моделирования%20высокочастотных%20радиоэлектронных%20систем»"
+        }
+      ],
+      "comment": "Активное проведение вебинаров - эффективный способ продвижения CAE-решений и обучения пользователей."
+    },
+    {
+      "block": "МЦД - численное моделирование в металлургии, 18 июля 2025", 
+      "month": "july",
+      "title": "МЦД",
+      "date": "18 июля 2025",
+      "image": "https://digitaltwin.ru/wp-content/uploads/2025/07/metallurgy-webinar-banner.webp",
+      "imageAlt": "Численное моделирование в металлургии",
+      "content": [
+        {
+          "text": "18 июля эксперты обсуждали применение отечественных пакетов (ServiceVizor, UMKAMaterials, SmartGranum, Logos, CAE Fidesys, Gamma CAD и CADFlo) для расчётов в металлургии и электродной промышленности, приводя примеры моделирования конвейерных узлов и горячих брикетов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Численное моделирование в металлургии и электродной промышленности",
+          "url": "https://digitaltwin.ru/sdt-news/numerical-modeling-in-metallurgy-and-electrode-industry/#:~:text=Численное%20моделирование%20в%20металлургии%20и,электродной%20промышленности"
+        }
+      ],
+      "comment": "Отраслевая специализация CAE-решений - важное направление развития отечественного софта."
+    },
+    {
+      "block": "АСКОН - PLM для автопрома, август 2025",
+      "month": "august",
+      "title": "АСКОН",
+      "date": "август 2025",
+      "image": "https://ascon.ru/images/logo.png",
+      "imageAlt": "АСКОН PLM-решения",
+      "content": [
+        {
+          "text": "АСКОН завершил внедрение PLM-решения на КАМАЗ Тормозные системы, адаптировал ЛОЦМАН:PLM для FMEA-анализа и обеспечил соответствие ISO 9001-2015."
+        }
+      ],
+      "sources": [
+        {
+          "text": "ascon.ru",
+          "url": "https://ascon.ru/news/2025/07/22/ooo-kamaz-tormoznye-sistemy-obespechivaet-kachestvo-avtokomponentov-ispolzuya-plm-reshenie-askon/"
+        }
+      ],
+      "comment": "Развитие российского рынка CAE-решений в автопроме"
+    },
+    {
+      "block": "АСКОН - КОМПАС-3D для Linux, август 2025",
+      "month": "august",
+      "title": "АСКОН",
+      "date": "август 2025", 
+      "image": "https://ascon.ru/s/w800/source/news/4025/05.png",
+      "imageAlt": "КОМПАС-3D для Linux",
+      "content": [
+        {
+          "text": "АСКОН анонсировал выпуск нативной версии КОМПАС-3D под российские ОС на базе Linux, релиз ожидается в 2025 году."
+        }
+      ],
+      "sources": [
+        {
+          "text": "ascon.ru",
+          "url": "https://ascon.ru/news/2025/08/27/vyshel-kompas-3d-v24-s-vstroennoj-fotorealistikoj-i-sapr-izdelij-iz-kompozitov/"
+        }
+      ],
+      "comment": "Импортозамещение операционных систем - важный тренд российского рынка CAD"
+    },
+    {
+      "block": "АСКОН - KOMPAScon 5.0, сентябрь 2025",
+      "month": "september",
+      "title": "АСКОН",
+      "date": "05 сентября 2025",
+      "image": "https://ascon.ru/upload/medialibrary/events/kompascon-logo.png",
+      "imageAlt": "KOMPAScon 5.0",
+      "content": [
+        {
+          "text": "АСКОН проведет инженерный фестиваль KOMPAScon 5.0 5 сентября 2025 года в Санкт-Петербурге."
+        }
+      ],
+      "sources": [
+        {
+          "text": "ascon.ru",
+          "url": "https://ascon.ru/news/"
+        }
+      ],
+      "comment": "Образовательные мероприятия важны для продвижения российских CAD-решений"
+    },
+    {
+      "block": "НТЦ АПМ - Patch 1 для APM v21, август 2025",
+      "month": "august",
+      "title": "НТЦ АПМ",
+      "date": "август 2025",
+      "image": "https://apm.ru/img/461/Patch-21-summer-text-2.jpg",
+      "imageAlt": "АПМ WinMachine Patch 1",
+      "content": [
+        {
+          "text": "Вышло обновление, ускоряющее контактные расчеты, расширяющее Python-скрипты и повышающее устойчивость системы."
+        }
+      ],
+      "sources": [
+        {
+          "text": "apm.ru",
+          "url": "https://apm.ru/apm-21-patch-1"
+        }
+      ],
+      "comment": "Постоянное совершенствование российских CAE-решений"
+    },
+    {
+      "block": "НТЦ АПМ - вебинары по расчетам, август 2025",
+      "month": "august",
+      "title": "НТЦ АПМ",
+      "date": "21 августа 2025",
+      "image": "https://apm.ru/img/462/APM-webinare-2025-comuttator-text.jpg",
+      "imageAlt": "АПМ вебинары",
+      "content": [
+        {
+          "text": "6 и 21 августа прошли вебинары по новым возможностям APM WinMachine v21."
+        }
+      ],
+      "sources": [
+        {
+          "text": "apm.ru",
+          "url": "https://apm.ru/news/"
+        }
+      ],
+      "comment": "Активная образовательная деятельность способствует продвижению российских CAE-решений"
+    },
+    {
+      "month": "august",
+      "title": "Топ Системы",
+      "date": "август 2025",
+      "image": "https://www.tflex.ru/events/ls25/banner.webp",
+      "imageAlt": "T-FLEX CAD",
+      "content": [
+        {
+          "subheading": "Летняя школа САПР 2025",
+          "text": "21–29 августа прошел бесплатный интенсив для преподавателей по T-FLEX CAD, с практикой и сертификацией."
+        }
+      ],
+      "sources": [
+        {
+          "text": "topsystems.ru",
+          "url": "https://www.tflex.ru/about/news/detail/index.php?ID=5496"
+        }
+      ],
+      "comment": "Развитие российского рынка CAE-решений"
+    },
+    {
+      "block": "Фидесис - новая версия 8.0, июль 2025",
+      "month": "july",
+      "title": "Фидесис",
+      "date": "июль 2025",
+      "image": "https://static.tildacdn.com/tild3965-3231-4833-b563-366437386639/Version_8-0.png",
+      "imageAlt": "Fidesys 8.0",
+      "content": [
+        {
+          "text": "Добавлен расчет роторной динамики, поддержка DICOM, новые конвертеры и фильтры для композитов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "fidesys.ru",
+          "url": "https://fidesys.ru/news/"
+        }
+      ],
+      "comment": "Развитие функциональности российских CAE-решений"
+    },
+    {
+      "block": "Фидесис - участие в конференциях, июль 2025",
+      "month": "july",
+      "title": "Фидесис",
+      "date": "июль 2025",
+      "image": "https://fidesys.ru/upload/medialibrary/conferences/conference-banner.jpg",
+      "imageAlt": "Фидесис на конференциях",
+      "content": [
+        {
+          "text": "Доклады на авиастроительных и судостроительных форумах, сравнение с COMSOL, кейсы по композитам."
+        }
+      ],
+      "sources": [
+        {
+          "text": "fidesys.ru",
+          "url": "https://fidesys.ru/news/"
+        }
+      ],
+      "comment": "Активное участие в отраслевых мероприятиях повышает узнаваемость российских CAE-решений"
+    },
+    {
+      "block": "Фидесис - вебинар Fidesys 8.0, 26 августа 2025",
+      "month": "august",
+      "title": "Фидесис",
+      "date": "26 августа 2025",
+      "image": "https://digitaltwin.ru/wp-content/uploads/2025/08/bg_cadflo-webinar-aug2025-1024x537.webp",
+      "imageAlt": "Fidesys 8.0 вебинар",
+      "content": [
+        {
+          "text": "МЦД и Фидесис провели вебинар о новых возможностях CAE Fidesys 8.0: расчет роторной динамики, диаграмма Кемпбелла, учет пластичности в оболочечных элементах, инструменты проверки моделей, оценка запасов прочности для композитов, линеаризация напряжений."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Вебинар CAE Fidesys 8.0: новые возможности",
+          "url": "https://digitaltwin.ru/events/fidesys-webinar-aug2025/"
+        }
+      ],
+      "comment": "Демонстрация новых возможностей отечественного CAE-софта через вебинары - эффективная форма продвижения"
+    },
+    {
+      "block": "Material Map - обновление базы данных, август 2025",
+      "month": "august",
+      "title": "Material Map",
+      "date": "август 2025",
+      "image": "https://materialmap.ru/upload/material-database-banner.jpg",
+      "imageAlt": "Material Map база материалов",
+      "content": [
+        {
+          "text": "Количество материалов в базе удвоилось за счет сбора сложных моделей. Добавлено ~40 моделей *MAT_JOHNSON_COOK + *EOS_GRUNEISEN с трещинообразованием, столько же ВВ (AFTERBURN, JWLB) и 6 сложных моделей полимеров *MAT_SAMP-1 + *MAT_ADD_DAMAGE_GISSMO. Улучшен UI с автоматической визуализацией *DEFINE_CURVE, *DEFINE_TABLE и материальных моделей."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Material Map Updates",
+          "url": "https://materialmap.ru/"
+        }
+      ],
+      "comment": "Развитие баз данных материалов критически важно для качественного CAE-моделирования"
+    },
+    {
+      "block": "НОВА-ИНЖИНИРИНГ и Борлас - партнерство, 11 сентября 2025",
+      "month": "september",
+      "title": "НОВА-ИНЖИНИРИНГ",
+      "date": "11 сентября 2025",
+      "image": "https://nova-eng.ru/upload/partnership/borlas-nova-banner.jpg",
+      "imageAlt": "НОВА-ИНЖИНИРИНГ и Борлас партнерство",
+      "content": [
+        {
+          "text": "НОВА-ИНЖИНИРИНГ и Группа Борлас (ГК Softline) заключили стратегическое партнерство для развития отечественных CAE-решений. Соглашение направлено на совместную разработку и внедрение инновационных инженерных решений для российского рынка."
+        }
+      ],
+      "sources": [
+        {
+          "text": "НОВА-ИНЖИНИРИНГ и Группа Борлас заключили партнерство",
+          "url": "https://sapr.ru/news/20250911-borlas"
+        }
+      ],
+      "comment": "Стратегические партнерства усиливают позиции российских разработчиков CAE-решений"
+    },
+    {
+      "block": "Новосибирск - инженерный спецназ, сентябрь 2025",
+      "month": "september",
+      "title": "Новосибирск",
+      "date": "сентябрь 2025",
+      "image": "https://infopro54.ru/upload/news/engineering-spetsnaz-banner.jpg",
+      "imageAlt": "Подготовка инженерного спецназа в Новосибирске",
+      "content": [
+        {
+          "text": "Вузы и бизнес в Новосибирске обсудили подготовку 'инженерного спецназа' - высококвалифицированных специалистов для промышленности. Инициатива направлена на создание системы подготовки инженеров мирового уровня для отечественной промышленности."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Вузы и бизнес в Новосибирске обсудили, как готовить инженерный спецназ",
+          "url": "https://infopro54.ru/news/vuzy-i-biznes-v-novosibirske-obsudili-kak-gotovit-inzhenernyj-specnaz/"
+        }
+      ],
+      "comment": "Подготовка высококвалифицированных инженеров критически важна для развития CAE-индустрии"
+    },
+    {
+      "block": "DATADVANCE - партнерства с ТЕСИС и АПМ, август 2025",
+      "month": "august",
+      "title": "DATADVANCE",
+      "date": "август 2025",
+      "image": "https://www.datadvance.net/assets/images/partners-banner.jpg",
+      "imageAlt": "DATADVANCE партнерства",
+      "content": [
+        {
+          "text": "Интеграция pSeven с FlowVision и APM для расширения возможностей пользователей."
+        }
+      ],
+      "sources": [
+        {
+          "text": "datadvance.net",
+          "url": "https://datadvance.net/news/"
+        }
+      ],
+      "comment": "Интеграция российских CAE-решений создает синергию и повышает конкурентоспособность"
+    },
+    {
+      "block": "ГК Цифра - шлюз АИСТ и сертификация, август 2025",
+      "month": "august",
+      "title": "ГК Цифра",
+      "date": "август 2025",
+      "image": "https://zyfra.com/img/logo-zyfra.svg",
+      "imageAlt": "Zyfra АИСТ",
+      "content": [
+        {
+          "text": "Запуск промышленного шлюза АИСТ, сертификация ПО Zyfra под Astra Linux и Tantor Postgres, отраслевые стандарты мониторинга."
+        }
+      ],
+      "sources": [
+        {
+          "text": "zyfra.com",
+          "url": "https://zyfra.com/news/"
+        }
+      ],
+      "comment": "Сертификация под российские ОС - важный тренд импортозамещения"
+    },
+    {
+      "block": "ГК Цифра - конкурсы и форумы, август 2025",
+      "month": "august",
+      "title": "ГК Цифра",
+      "date": "август 2025",
+      "image": "https://zyfra.com/img/contests/oil-gas-50-logo.png",
+      "imageAlt": "Нефть и Газ 5.0",
+      "content": [
+        {
+          "text": "Конкурс 'Нефть и Газ 5.0', участие в форумах, публикации руководства о внедрении ИИ."
+        }
+      ],
+      "sources": [
+        {
+          "text": "zyfra.com",
+          "url": "https://zyfra.com/news/"
+        }
+      ],
+      "comment": "Активная работа с профессиональным сообществом и продвижение ИИ-решений"
+    },
+    {
+      "month": "august",
+      "title": "Компмехлаб",
+      "date": "август 2025",
+      "image": "https://compmechlab.com/wp-content/uploads/2020/01/logo-ru.svg",
+      "imageAlt": "Компмехлаб CML-Bench",
+      "content": [
+        {
+          "subheading": "Архипелаг-2025 и ИННОПРОМ",
+          "text": "Доклады по цифровому инжинирингу, онлайн-курс по Digital Twin, патент на устройство для реакторов, инициативы по БАС."
+        }
+      ],
+      "sources": [
+        {
+          "text": "compmechlab.ru",
+          "url": "https://compmechlab.ru/news/"
+        }
+      ],
+      "comment": "Развитие российского рынка CAE-решений"
+    },
+    {
+      "block": "СПбПУ CompMechLab, 5 сентября 2025",
+      "month": "september",
+      "title": "СПбПУ CompMechLab",
+      "date": "5 сентября 2025",
+      "image": "https://www.spbstu.ru/upload/iblock/f94/f94a3b5f3b0e8c5a1c4e2e7c2b9c4a5e.png",
+      "imageAlt": "Передовая инженерная школа СПбПУ",
+      "content": [
+        {
+          "subheading": "Мероприятие в Передовой инженерной школе СПбПУ",
+          "text": "5 сентября 2025 года в Передовой инженерной школе СПбПУ «Цифровой инжиниринг» (связанной с CompMechLab) прошло традиционное мероприятие для студентов магистратуры. В рамках события обсуждались вопросы CAD/CAM, FEA/CFD/CAE и Hi-Tech, включая встречу с магистрантами и демонстрацию достижений."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Мероприятие в Передовой инженерной школе СПбПУ",
+          "url": "https://fea.ru/news/news/9179"
+        }
+      ],
+      "comment": "Образовательные инициативы в области CAE важны для подготовки кадров и продвижения технологий."
+    },
+    {
+      "block": "Минпромторг, 24 сентября 2025",
+      "month": "september",
+      "title": "Минпромторг России",
+      "date": "24 сентября 2025",
+      "image": "https://minpromtorg.gov.ru/common/img/logo.svg",
+      "imageAlt": "Софинансирование PLM-систем Минпромторгом",
+      "content": [
+        {
+          "subheading": "Софинансирование PLM-систем Минпромторгом",
+          "text": "Минпромторг России объявил о софинансировании затрат электронной отрасли на внедрение PLM-систем (включая элементы CAE). Это решение направлено на поддержку импортозамещения и цифровизации, с акцентом на отечественные решения. Мера вступит в силу в 2025 году и охватит ключевые компании отрасли."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Минпромторг объявил о софинансировании PLM-систем",
+          "url": "https://www.interfax.ru/russia/1048926"
+        }
+      ],
+      "comment": "Государственная поддержка внедрения отечественных PLM и CAE решений открывает новые возможности для российских разработчиков."
+    },
+    {
+      "block": "МАИ - виртуальные испытания композитов, 03 сентября 2025",
+      "month": "september",
+      "title": "МАИ",
+      "date": "03 сентября 2025",
+      "image": "https://mai.ru/upload/iblock/3d7/3d7f5e1a5b4e8c9d0f1e2a3b4c5d6e7f.jpg",
+      "imageAlt": "МАИ виртуальные испытания композитов",
+      "content": [
+        {
+          "text": "Инженеры Центра композиционных конструкций МАИ разрабатывают инновационный метод виртуальных испытаний полимерных композиционных материалов. Система включает создание цифрового двойника и внедрение интеллектуального мониторинга с элементами управления ростом трещин для прогнозного техобслуживания авиационных конструкций."
+        }
+      ],
+      "sources": [
+        {
+          "text": "МАИ разрабатывает виртуальные испытания композитов для авиации нового поколения",
+          "url": "https://nauka.tass.ru/nauka/24941185"
+        }
+      ],
+      "comment": "Разработка отечественных методов виртуальных испытаний композитов критически важна для авиационной промышленности"
+    },
+    {
+      "block": "Т1 Интеграция - CADFlo в образовании, 03 августа 2025",
+      "month": "august",
+      "title": "Т1 Интеграция",
+      "date": "03 августа 2025",
+      "image": "https://t1.ru/upload/medialibrary/cae/cadflow-education-banner.jpg",
+      "imageAlt": "Т1 Интеграция CADFlo в образовании",
+      "content": [
+        {
+          "text": "Т1 Интеграция запустила масштабную программу по развитию инженерных компетенций. Преподаватели 27 российских вузов прошли обучение по работе с CADFlo. Планируется интеграция в 175 технических дисциплин, что даст доступ к современным отечественным инженерным инструментам нескольким тысячам студентов."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Т1 развивает инженерное образование через внедрение современных CAE-решений",
+          "url": "https://t1.ru/media/news/t1_razvivaet_inzenernoe_obrazovanie_cherez_vnedreie_sovremennyh_cae-resheniy"
+        }
+      ],
+      "comment": "Массовое внедрение отечественных CAE-решений в образование - стратегически важный шаг для подготовки кадров"
+    }
+  ],
+  "industry": [
+    {
+      "month": "august",
+      "title": "Рост рынка CAE",
+      "date": "11 августа 2025",
+      "image": "https://finance.yahoo.com/m/3961c5c4-4ac7-3c4f-85b9-1d5b1b5b5c5c/yahoo-finance-logo-square.jpg",
+      "imageAlt": "Рост рынка CAE",
+      "content": [
+        {
+          "subheading": "Новый отчет Yahoo Finance о рынке CAE",
+          "text": "Согласно новому отчету Yahoo Finance от 10 августа, рынок CAE оценивается в 13,4 млрд долларов в 2025 году и достигнет 21,8 млрд к 2030 году с CAGR 10,2%. Основными драйверами роста остаются цифровые двойники, облачные вычисления и ИИ для оптимизации процессов проектирования."
+        },
+        {
+          "subheading": "Автомобилестроение и аэрокосмическая отрасль лидируют",
+          "text": "Автомобильная и аэрокосмическая отрасли продолжают лидировать по применению CAE-решений, что связано с необходимостью сокращения времени разработки и соответствием строгим регулятивным требованиям. Северная Америка остаётся крупнейшим рынком, однако Азиатско-Тихоокеанский регион показывает самые высокие темпы роста."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Computer-Aided Engineering (CAE) Market to Hit USD 21.81 Billion by 2030 at a CAGR of 10.2%",
+          "url": "https://finance.yahoo.com/news/computer-aided-engineering-cae-market-143000860.html"
+        }
+      ],
+      "comment": "Отраслевые новости помогают понять потребности клиентов"
+    },
+    {
+      "month": "september",
+      "title": "Российская экономика",
+      "date": "24 сентября 2025",
+      "image": "https://rosstat.gov.ru/storage/mediabank/rosstat_logo.svg",
+      "imageAlt": "Росстат данные",
+      "content": [
+        {
+          "text": "Почти треть российских компаний оказались убыточными в первой половине 2025 года - максимальный показатель с периода пандемии. 43 тыс. организаций получили прибыль 18,4 трлн руб., тогда как 19 тыс. компаний понесли убытки свыше 5 трлн руб. Основные причины: дорогие кредиты, слабый спрос, рост налогов, санкции."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Данные Росстата о финансовых результатах компаний",
+          "url": "https://rosstat.gov.ru/"
+        }
+      ],
+      "comment": "Сложная экономическая ситуация создает вызовы для внедрения CAE-решений, но также стимулирует поиск более эффективных технологий"
+    },
+    {
+      "month": "august",
+      "title": "Рост спроса на SaaS-CAE",
+      "date": "04 августа 2025",
+      "image": "https://onshape-public.s3.amazonaws.com/marketplace/banner_nimble_robotics_1020x502.jpg",
+      "imageAlt": "SaaS-CAE",
+      "content": [
+        {
+          "subheading": "Nimble Robotics переходит на Onshape и Arena",
+          "text": "8 июля Nimble Robotics сообщила о переходе на облачные Onshape и Arena, подчеркивая рост спроса на SaaS-CAE и PLM-решения."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Источник",
+          "url": "#"
+        }
+      ],
+      "comment": "Отраслевые новости помогают понять потребности клиентов"
+    }
+  ],
+  "events": [
+    {
+      "month": "august",
+      "title": "ИННОПРОМ-2025",
+      "date": "04 августа 2025",
+      "image": "https://www.plm-ural.ru/sites/default/files/inline-images/2025-07-07_11-57-29_kus_09414.jpg",
+      "imageAlt": "ИННОПРОМ-2025",
+      "content": [
+        {
+          "subheading": "PLM Урал на ИННОПРОМ-2025",
+          "text": "PLM Урал продемонстрировала координатно-измерительные машины AEH, привлекшие 50 тыс. посетителей из 60 стран. Владимир Жураховский подчеркнул важность инвестиций в отечественные решения."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Источник",
+          "url": "#"
+        }
+      ],
+      "comment": "Мероприятия создают возможности для налаживания партнерских связей"
+    },
+    {
+      "month": "august",
+      "title": "X летняя школа ECINT 2025",
+      "date": "04 августа 2025",
+      "image": "https://flowvision.ru/images/FV_logo_1659x600_no.png",
+      "imageAlt": "ECINT 2025",
+      "content": [
+        {
+          "subheading": "ТЕСИС провела летнюю школу ECINT",
+          "text": "21 июля ТЕСИС организовала X летнюю школу ECINT 2025, обучая работе с FlowVision."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Источник",
+          "url": "#"
+        }
+      ],
+      "comment": "Мероприятия создают возможности для налаживания клиентских связей"
+    },
+    {
+      "month": "august",
+      "title": "Тест-драйв Fidesys",
+      "date": "27 августа 2025",
+      "image": "https://www.csoft.ru/pull/600x/FFFFFF/assets/images/test-drive/20250827_v-2.png",
+      "imageAlt": "Тест-драйв Fidesys",
+      "content": [
+        {
+          "subheading": "Тест-драйв «Моделирование физических процессов в CAE Fidesys»",
+          "text": "Очный тест-драйв «Моделирование физических процессов в CAE Fidesys», посвященный практическому освоению инструментов инженерного анализа на базе российского программного комплекса Fidesys."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Тест-драйв «Моделирование физических процессов в CAE Fidesys»",
+          "url": "https://www.csoft.ru/actions/tests/test_20250827.html"
+        }
+      ],
+      "comment": "Мероприятия создают возможности для налаживания связей с клиентами"
+    },
+    {
+      "month": "september",
+      "title": "Металлообработка-2025",
+      "date": "16-20 сентября 2025",
+      "image": "https://www.metalloobrabotka-expo.ru/upload/iblock/7e6/7e6f5b5c1b5c5b5c5b5c5b5c5b5c5b5c.jpg",
+      "imageAlt": "Металлообработка-2025",
+      "content": [
+        {
+          "subheading": "29-я Международная специализированная выставка технологий, оборудования и материалов для металлообработки",
+          "text": "Ведущая выставка машиностроительной отрасли России. Представлены станки, инструменты, измерительное оборудование, CAD/CAM/CAE системы, роботизированные комплексы и технологии Industry 4.0. Место проведения: МВЦ «Крокус Экспо», Москва."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Металлообработка-2025",
+          "url": "https://www.metalloobrabotka-expo.ru/"
+        }
+      ],
+      "comment": "Крупнейшая выставка машиностроения в России, отличная площадка для демонстрации CAE-решений"
+    },
+    {
+      "month": "may",
+      "title": "ИННОПРОМ-2026",
+      "date": "май 2026",
+      "image": "https://innoprom.com/upload/iblock/banner-2025.jpg",
+      "imageAlt": "ИННОПРОМ-2026",
+      "content": [
+        {
+          "subheading": "Международная промышленная выставка",
+          "text": "Ведущая промышленная выставка России и стран СНГ. Охватывает все сферы промышленности: машиностроение, металлургию, энергетику, цифровые технологии. Традиционно проходит в Екатеринбурге, привлекает свыше 50 000 участников из 100+ стран."
+        }
+      ],
+      "sources": [
+        {
+          "text": "ИННОПРОМ",
+          "url": "https://innoprom.com/"
+        }
+      ],
+      "comment": "Федеральная промышленная выставка, высокий уровень участников и лиц, принимающих решения"
+    },
+    {
+      "month": "march",
+      "title": "Станкостроение-2026",
+      "date": "март 2026",
+      "image": "https://stankostroenie.expoforum.ru/upload/banner-stankostroenie.jpg",
+      "imageAlt": "Станкостроение-2026",
+      "content": [
+        {
+          "subheading": "Международная выставка станкостроения и машиностроения",
+          "text": "Специализированная выставка металлообрабатывающих станков, технологического оборудования и инструмента. Проходит в Санкт-Петербурге в КВЦ «ЭКСПОФОРУМ». Фокус на импортозамещении и развитии отечественного станкостроения."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Станкостроение",
+          "url": "https://stankostroenie.expoforum.ru/"
+        }
+      ],
+      "comment": "Региональная выставка с акцентом на станкостроение и металлообработку"
+    },
+    {
+      "month": "october",
+      "title": "Машиностроение и металлообработка-2025",
+      "date": "октябрь 2025",
+      "image": "https://www.uralexpo.ru/upload/medialibrary/logo-uralexpo.svg",
+      "imageAlt": "Машиностроение и металлообработка",
+      "content": [
+        {
+          "subheading": "Уральская международная выставка и форум промышленности и инноваций",
+          "text": "Региональная выставка в Екатеринбурге, объединяющая предприятия машиностроения, металлургии и обработки металлов Урала и Сибири. Традиционно сильное представительство горнодобывающей и тяжелой промышленности."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Машиностроение Урала",
+          "url": "https://www.uralexpo.ru/"
+        }
+      ],
+      "comment": "Важная региональная площадка для уральских и сибирских промышленных предприятий"
+    },
+    {
+      "month": "november",
+      "title": "Автопром-2025",
+      "date": "ноябрь 2025",
+      "image": "https://autoprom-expo.ru/upload/banner-autoprom.jpg",
+      "imageAlt": "Автопром-2025",
+      "content": [
+        {
+          "subheading": "Международная выставка автомобильной промышленности",
+          "text": "Специализированная выставка автомобильного машиностроения, автокомпонентов и технологий производства. Включает секции по CAE-моделированию для автопрома, краш-тестам, NVH анализу. Проходит в Москве."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Автопром",
+          "url": "https://autoprom-expo.ru/"
+        }
+      ],
+      "comment": "Специализированная выставка для автомобильной отрасли - ключевого потребителя CAE-решений"
+    },
+    {
+      "month": "february",
+      "title": "Технофорум-2026",
+      "date": "февраль 2026",
+      "image": "https://technoforum.ru/upload/banner-techno.jpg",
+      "imageAlt": "Технофорум-2026",
+      "content": [
+        {
+          "subheading": "Международный форум технологий и инноваций",
+          "text": "Выставка высоких технологий в промышленности, включая цифровое производство, Industry 4.0, промышленную робототехнику, CAD/CAE/PLM системы. Новосибирск, СибЭкспоЦентр."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Технофорум",
+          "url": "https://technoforum.ru/"
+        }
+      ],
+      "comment": "Технологическая выставка с акцентом на цифровизацию производства"
+    },
+    {
+      "month": "april",
+      "title": "Энергетика и электротехника-2026",
+      "date": "апрель 2026",
+      "image": "https://expoforum.ru/upload/iblock/logo-expoforum.svg",
+      "imageAlt": "Энергетика и электротехника",
+      "content": [
+        {
+          "subheading": "Международная выставка энергетического машиностроения",
+          "text": "Выставка энергетического оборудования, турбин, генераторов, электротехнического оборудования. Важное направление для CAE-моделирования тепловых процессов, прочности и динамики вращающихся машин. Санкт-Петербург."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Энергетика Экспо",
+          "url": "https://energetika-expo.ru/"
+        }
+      ],
+      "comment": "Энергетическое машиностроение - перспективное направление для CAE-технологий"
+    },
+    {
+      "month": "june",
+      "title": "Композиты России-2026",
+      "date": "июнь 2026",
+      "image": "https://composites-russia.ru/assets/logo-composites-russia.svg",
+      "imageAlt": "Композиты России",
+      "content": [
+        {
+          "subheading": "Международная выставка композитных материалов и технологий",
+          "text": "Специализированная выставка композитных материалов, технологий их переработки и применения в авиации, автомобилестроении, судостроении. Особый интерес представляет моделирование композитных конструкций. Москва."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Композиты России",
+          "url": "https://composites-russia.ru/"
+        }
+      ],
+      "comment": "Композитные материалы требуют специализированных CAE-решений для моделирования анизотропных свойств"
+    },
+    {
+      "month": "september",
+      "title": "Машиностроение и автоматизация-2025",
+      "date": "сентябрь 2025",
+      "image": "https://mashauto-expo.ru/images/logo-mashauto.svg",
+      "imageAlt": "Машиностроение и автоматизация",
+      "content": [
+        {
+          "subheading": "Региональная выставка промышленности и автоматизации",
+          "text": "Выставка охватывает автоматизацию производственных процессов, промышленную робототехнику, системы управления, цифровые двойники. Проходит в различных промышленных центрах России (Нижний Новгород, Самара, Тольятти)."
+        }
+      ],
+      "sources": [
+        {
+          "text": "Машиностроение и автоматизация",
+          "url": "https://mashauto-expo.ru/"
+        }
+      ],
+      "comment": "Региональные выставки важны для работы с местными промышленными кластерами"
+    }
+  ]
+}
